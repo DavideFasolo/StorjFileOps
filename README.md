@@ -111,4 +111,4 @@ If you find bugs or have suggestions, feel free to contribute.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/DavideFasolo/storj-file-operations/blob/main/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/DavideFasolo/storj-file-operations/blob/master/LICENSE) file for more information.
