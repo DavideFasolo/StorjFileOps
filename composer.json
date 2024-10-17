@@ -1,0 +1,15 @@
+{
+    "name": "user/storj-file-ops",
+    "description": "Storj bucket file operations",
+    "type": "library",
+    "require": {
+        "aws/aws-sdk-php": "^3.324"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Davide Fasolo",
+            "email": "davide@fasolodesign.it"
+        }
+    ]
+}
