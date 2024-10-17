@@ -1,6 +1,6 @@
 # Storj File Operations
 
-This PHP (very tiny at the moment) library provides functions to interact with a Storj bucket using S3Client from AWS.
+This tiny PHP library provides some functions to interact with a Storj bucket, using S3Client from AWS.
 
 I made it keeping the functional style in mind (with obvious exception for AWS S3 Client class)
 
